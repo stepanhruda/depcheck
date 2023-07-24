@@ -24,6 +24,7 @@ export default async function parseTypescript(filename) {
       'exportNamespaceFrom',
       'functionBind',
       'functionSent',
+      'importAssertions',
       'importMeta',
       'logicalAssignment',
       'nullishCoalescingOperator',

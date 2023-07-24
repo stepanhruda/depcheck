@@ -28,7 +28,6 @@ build/Release
 node_modules
 
 # Babel compiled code
-dist
 
 # Nyc output
 .nyc_output
